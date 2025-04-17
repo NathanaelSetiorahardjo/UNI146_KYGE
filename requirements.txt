@@ -21,6 +21,8 @@ gast==0.6.0
 gitdb==4.0.12
 GitPython==3.1.44
 google-pasta==0.2.0
+
+//NOTE : IP di esp32_stream_reader.py harus disesuaikan dengan yang di dapat setelah upload (flashing) ke ESP32cam, cek serial monitor
 //Main
 tensorflow==2.19.0
 mediapipe==0.10.21
