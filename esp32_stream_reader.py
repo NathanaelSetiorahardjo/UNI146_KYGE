@@ -9,11 +9,11 @@ import requests  # ✅ NEW: For Ubidots
 import time       # ✅ NEW: To manage send intervals
 
 # === Streamlit Page Setup (must be first) ===
-st.set_page_config(page_title="🖐 BISINDO Sign Recognition", layout="wide")
+st.set_page_config(page_title="🖐 Gestitalk Sign Recognition", layout="wide")
 
 # === Title Section ===
 st.markdown("""
-    <h1 style='text-align: center;'>🖐 BISINDO Sign Recognition</h1>
+    <h1 style='text-align: center;'>🖐 Gestitalk Sign Recognition</h1>
     <p style='text-align: center; font-size: 18px;'>
         Real-time A-Z sign recognition powered by ESP32-CAM + TensorFlow. Built with ❤ using Streamlit.
     </p>
