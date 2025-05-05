@@ -1,0 +1,5 @@
+Be sure to install all requirements and update IP in both INO sketch and python, (esp32_stream_reader.py)
+Be sure to use your wifi and enter credentials accordingly
+AI model still has some issues with accuracy
+INO sketch for stage 4 can be found in prototype_stage4_local
+thank you for opportunity
